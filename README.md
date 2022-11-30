@@ -125,10 +125,10 @@ print("accuracy = " , accuracy_score(classifier.predict(x_test), y_test)*100)
 ## Output:
 
 ### Dataset
-![df](./df.png)
+<img width=375 src=./df.png>
 
 ### Scatterplot
-![plot](./plot.png)
+<img width=375 src=./plot.png>
 
 ### Y- values
 ![val](./y.png)
