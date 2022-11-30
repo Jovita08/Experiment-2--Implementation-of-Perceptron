@@ -1,6 +1,4 @@
-# Ex no.2
-# Date: 29.09.2022
-# Implementation-of-Perceptron
+# Ex no.2 - Implementation-of-Perceptron
 
 ## AIM:
 To implement a perceptron for classification using Python
